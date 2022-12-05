@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mircha Emanuel `ryuujin` D'Angelo, Full Stack Developer on Netsons (https://www.netsons.com)
+I'm Mircha Emanuel `ryuujin` D'Angelo, Full Stack Developer on Netsons/Athomos (https://www.netsons.com): https://github.com/ryuujinos
 
 I’m a Full-stack developer and Software Architect from Pescara, Italia. I have more than 17 years of experience designing and developing a wide variety of business applications.
 
