@@ -10,8 +10,8 @@ My experience allows me to afford almost every project with a little effort in s
 
 Find out more on https://a80.it and https://www.linkedin.com/in/mirchaemanueldangelo/
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirchaemanuel&count_private=true&show_icons=true&theme=cobalt)]()
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirchaemanuel&count_private=true&show_icons=true&theme=cobalt&custom_title=GitHub%20Personal)]()
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuujinos&count_private=true&show_icons=true&theme=cobalt&custom_title=GitHub%20Work)]()
 <!--
 **mirchaemanuel/mirchaemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
