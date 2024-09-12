@@ -15,7 +15,9 @@ My current tech stack includes:
 - Vue.js
 - Typescript
 - TailwindCSS
+  
 and
+
 - Laravel
 - Livewire
 - TailwindCSS
