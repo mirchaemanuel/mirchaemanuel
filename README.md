@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mircha Emanuel `ryuujin` D'Angelo, Technical Solutions Architect in [Oltrematica Srl](https://oltrematica.it)
+I'm Mircha Emanuel `ryuujin` D'Angelo, Technical Solutions Architect & Tech Lead in [Oltrematica Srl](https://oltrematica.it)
 
 I’m a highly skilled Full-stack developer and Software Architect from Pescara, Italia. I have more than 20 years of experience designing and developing a wide variety of business applications.
 
